@@ -1,4 +1,4 @@
 # SmartLock
-Smart Lock Device
+Smart Lock Dissertation Project
 
 In this project, research was undertaken into current commercially available smart locks and security methods. Following this, the development of a prototype smart lock device was created. The lock can be securely unlocked and has the ability to connect to a dedicated iPhone application via Bluetooth for configuration, user alerts, unlock and authentication methods, and other user-based settings. Examples of the authentication methods include Apple’s biometric sensors (fingerprint/face-recognition), a fallback solution alternative to the biometrics (Pin code/password), a "secret knock" using DSP techniques, the ability to unlock the device with RFID (fob or smart ring), and a mechanical unlocking method in case power is lost in an emergency situation e.g., a fire or earthquake, etc... Multiple forms of CAD were used in the project, including bespoke PCB design in KiCAD, and AutoCAD to produce 3D print designs for unique cases.
